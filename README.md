@@ -62,9 +62,10 @@ Python OOP modeling
 Node graph visualization
 Animation in Matplotlib
 
-##
-📜 License
+## 📄 License  
 This project is licensed under the MIT License.
 
-👤 Author
-Jatinkumar GitHub: Jatinkumar-08
+## 👤 Author  
+**Jatinkumar**  
+GitHub: [Jatinkumar-08](https://github.com/Jatinkumar-08)
+
