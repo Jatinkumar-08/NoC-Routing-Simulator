@@ -65,6 +65,5 @@ Animation in Matplotlib
 This project is licensed under the MIT License.
 
 ## 👤 Author  
-**Jatinkumar**  
-GitHub: [Jatinkumar-08](https://github.com/Jatinkumar-08)
+Jatinkumar GitHub: Jatinkumar-08
 
