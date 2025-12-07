@@ -61,3 +61,9 @@ XY routing algorithm
 Python OOP modeling
 Node graph visualization
 Animation in Matplotlib
+
+📜 License
+This project is licensed under the MIT License.
+
+👤 Author
+Jatinkumar GitHub: Jatinkumar-08
