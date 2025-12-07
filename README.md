@@ -34,26 +34,26 @@ Benefits:
 
 ## ▶️ Running the Simulator
 
-### 1. Install dependencies
+## 1. Install dependencies
 
 ```bash
 pip install -r requirements.txt
 
-2. Run the simulator
+## 2. Run the simulator
 python main.py
 
-3. Output includes:
+## 3. Output includes:
 Printed mesh connectivity
 Random source & destination router
 Complete XY routing path
 Real-time animation of packet movement
 
-📸 Visualization:
+## 📸 Visualization:
 Blue nodes → Routers
 Gray lines → Network links
 Red dot → Packet moving
 
-📘 Learning Outcomes:
+## 📘 Learning Outcomes:
 By using this simulator, you will understand:
 Mesh NoC architecture
 Router neighbor connectivity
